@@ -51,6 +51,10 @@ aa.zapisz_Json()
 aa.odczyt()
 
 
+print ("testy gita")
+print ("zobacz cos ie stanie...")
+
+
 #a2+b2=c2
 
 ##class Pitagoras:
